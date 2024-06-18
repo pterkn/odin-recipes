@@ -10,14 +10,31 @@ html {
 }
 
 
-body { background-color: rgb(2, 0, 41); }
+body {
+    background-color: rgb(2, 0, 41);
+}
 
 body {
     color: rgb(231, 209, 176);
 }
 
+.steak {
+    padding: 30px;
+    text-align: center;
+    margin-bottom: 10px;
+    background-color: #9e4c09;
+}
 
+.lasagna {
+    padding: 30px;
+    text-align: center;
+    margin-bottom: 10px;
+    background-color: #ad381b;
+}
 
-
-
-
+.cheesecake {
+    padding: 30px;
+    text-align: center;
+    margin-bottom: 10px;
+    background-color: #e0e41f;
+}
